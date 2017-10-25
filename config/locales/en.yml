@@ -1,0 +1,9 @@
+en:
+  pin:
+    created: 
+      success: "The pin is created successfully."
+      failed: "The pin failed to be created."
+    deleted: "The pin is deleted successfully."
+    updated:
+      success: "The pin is updated successfully."
+      failed: "The pin failed to be updated."
